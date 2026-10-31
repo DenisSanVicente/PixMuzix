@@ -1,0 +1,13 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Node.js
+node_modules/
+
+# Fichiers générés
+dist/
+
+# Variables d'environnement
+.env
+.env.local
